@@ -1,8 +1,8 @@
 # Laptop Price Predictor Regressor.
 ### StreamLit Webapp Screenshots
-![Price Predictor](.\images/Price-Predictor-1.png)
+![Price Predictor](https://github.com/sharmatriloknath/Laptop-Price-Predictor/blob/main/images/Price-Predictor-1.png?raw=true)
 
-![Price Predictor](.\images/Price-Predictor-2.png)
+![Price Predictor](https://github.com/sharmatriloknath/Laptop-Price-Predictor/blob/main/images/Price-Predictor-2.png?raw=true)
 
 **In this project we are creating a laptop Price predictor with the help of Machine Learning Models.**
 
